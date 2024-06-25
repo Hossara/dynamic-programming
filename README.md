@@ -1,2 +1,2 @@
-# dynamic-programming
-Learn Dynamic Programming
+# Dynamic Programming
+This repository contains my practices about dynamic programming.
